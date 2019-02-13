@@ -1,0 +1,8 @@
+# install.packages("tidyverse")
+library(tidyverse)
+library(readxl)
+library(DBI)
+library(RMySQL) # install.packages("RMySQL")
+library(httr)
+library(jsonlite)
+library(haven)
